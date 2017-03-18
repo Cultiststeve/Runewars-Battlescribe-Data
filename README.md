@@ -1,3 +1,5 @@
+Location has moved to https://github.com/BSData/runewars to integrate with their awesome hosting website. See there for latest verions.
+
 # Runewars-Battlescribe-Data
 A complete set of data files for the "BattleScribe" miniature gaming army list application, for Runewars, the fantasy flight minature game.
 
